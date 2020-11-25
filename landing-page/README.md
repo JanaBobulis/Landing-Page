@@ -1,5 +1,5 @@
 # Landing Page Project
-Multi-serction landing page with the dynamic navigation menu. the section actively being viewed is differentiated by yellow colour. Additionally, when user clicks on a navigation item, the item should scroll to the appropriate section rather than giving a default jump.
+Multi-section landing page with the dynamic navigation menu. The section actively being viewed is differentiated by yellow colour. Additionally, when user clicks on a navigation item, the item should scroll to the appropriate section rather than giving a default jump.
 
 ## How it works 
 
