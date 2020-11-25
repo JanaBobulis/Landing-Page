@@ -1,6 +1,10 @@
 # Landing Page Project
 Multi-serction landing page with the dynamic navigation menu. the section actively being viewed is differentiated by yellow colour. Additionally, when user clicks on a navigation item, the item should scroll to the appropriate section rather than giving a default jump.
 
+## How it works 
+
+![ezgif com-video-to-gif-10](https://user-images.githubusercontent.com/71527795/100226173-439c4480-2f17-11eb-9bfb-6901793480f5.gif)
+
 ## DYNAMIC NAVIGATION MENU
 1. I've selected all 'section' tags and the unordered list with the ID of 'navbar__list'; 
 2. Within a for loop i've created two elements - 'li' and 'a';
